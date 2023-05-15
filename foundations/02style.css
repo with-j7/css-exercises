@@ -1,0 +1,15 @@
+.pink{
+    background-color: rgba(236, 160, 183, 0.979);
+    font-family: sans-serif;
+}
+
+#two{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four{
+    background-color: #00ff95;
+    font-size: 24px;
+    font-weight: bold;
+}
