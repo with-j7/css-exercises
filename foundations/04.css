@@ -1,4 +1,4 @@
-avatarproportioned {
+.avatarproportioned {
     width: 300px;
-    height: 1;
+    height: auto;
 }
