@@ -17,8 +17,8 @@ body{
   font-size: 22px;
 }
 
-button #confirm-button {
-  background: green;
+#confirm-button {
+  background-color: green;
   color: white;
   font-weight: bold;
 } 
