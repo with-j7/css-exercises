@@ -1,11 +1,14 @@
-
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
 
 .one {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
   padding: 30px;
-  margin: 30px;
+  margin: 10%;
 }
 
 .two {
