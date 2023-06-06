@@ -28,14 +28,15 @@ body {
     background: #e3f4ff;
     margin: 0px 10px 10px 10px;
     border-bottom: 10px solid white;
-    
-   
+    text-align: center;
+    padding: 10px;
   }
   
   button {
     background: white;
     border: 1px solid #eee;
     display: block;
+    margin: 0 auto;
 
   }
   
