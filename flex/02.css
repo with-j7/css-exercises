@@ -8,7 +8,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
-  /*padding: 4px 32px;*/
+  padding: 4px 32px;
 }
 
 ul {
@@ -30,6 +30,7 @@ ul {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
 }
 
 ul {
@@ -39,9 +40,10 @@ ul {
 a {
   color: blue;
   margin: 8px;
+  padding: 4px;
 }
 
 .logo,
-.li {
+li {
   margin: 8px;
 }
