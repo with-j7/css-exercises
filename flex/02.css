@@ -8,7 +8,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
-  padding: 4px 32px;
+  /*padding*/margin: 4px 32px;
 }
 
 ul {
@@ -19,7 +19,7 @@ ul {
 a {
   font-size: 22px;
   background: white;
-  padding: 8px;
+  padding: 8px; 
   /* this removes the line under the links */
   text-decoration: none;
 }
@@ -28,4 +28,17 @@ a {
 .header,
 ul {
   display: flex;
+}
+
+.ul {
+  justify-content: space-around;
+}
+
+a {
+  margin: 8px;
+  color: blue;
+}
+
+.logo {
+  
 }
