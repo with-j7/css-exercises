@@ -32,6 +32,10 @@ ul {
   justify-content: space-between;
 }
 
+ul {
+  padding-inline-start: 0px;
+}
+
 a {
   color: blue;
   margin: 8px;
