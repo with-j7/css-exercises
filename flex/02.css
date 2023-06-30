@@ -8,7 +8,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
-  /*padding*/margin: 4px 32px;
+  /*padding: 4px 32px;*/
 }
 
 ul {
@@ -28,17 +28,15 @@ a {
 .header,
 ul {
   display: flex;
-}
-
-.ul {
   justify-content: space-around;
 }
 
+
 a {
-  margin: 8px;
   color: blue;
 }
 
-.logo {
-  
+.logo,
+.li {
+  margin: 8px;
 }
