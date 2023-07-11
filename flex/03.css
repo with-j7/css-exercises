@@ -51,3 +51,7 @@ ul {
 .header {
     display: flex;
 }
+
+.right {
+    justify-content: flex-end;
+}
