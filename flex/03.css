@@ -46,3 +46,8 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* Added by me */
+.header {
+    display: flex;
+}
