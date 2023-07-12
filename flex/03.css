@@ -50,6 +50,7 @@ ul {
 /* Added by me */
 .header {
     display: flex;
+    justify-content: space-between;
 }
 
 .left {
