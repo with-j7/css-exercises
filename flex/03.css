@@ -48,9 +48,11 @@ ul {
 }
 
 /* Added by me */
-.header {
+.left {
     display: flex;
+    justify-content: flex-start;
 }
+
 .right {
     display: flex;
     justify-content: flex-end;
