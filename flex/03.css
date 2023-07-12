@@ -53,13 +53,10 @@ ul {
     justify-content: space-between;
 }
 
-.left {
+.left,
+.right,
+ul {
     display:flex;
-    justify-content: flex-start;
 }
 
-.right {
-    display:flex;
-    justify-content: flex-end;
-}
 
