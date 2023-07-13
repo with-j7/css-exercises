@@ -58,7 +58,6 @@ ul {
 .right,
 ul {
     display:flex;
-    justify-content: space-evenly;
 }
 
 ul {
