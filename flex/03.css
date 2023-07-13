@@ -64,3 +64,10 @@ ul {
 ul {
     padding: 0;
 }
+
+.logo,
+li,
+button,
+.profile-image {
+  margin: 8px;
+}
